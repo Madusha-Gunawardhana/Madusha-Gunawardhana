@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Madusha Gunawardhana</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="center" alt="coding" src = "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
@@ -17,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madusha-gunawardhana&show_icons=true&locale=en&layout=compact" alt="madusha-gunawardhana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madusha-gunawardhana&show_icons=true&locale=en" alt="madusha-gunawardhana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madusha-gunawardhana&" alt="madusha-gunawardhana" /></p>
